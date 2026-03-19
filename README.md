@@ -1,4 +1,7 @@
 # 🌍 TripGraphy - Travel & Journey Sharing Platform
+## 📸 Screenshot
+
+![TripGraphy Screenshot](https://raw.githubusercontent.com/mdtahsinislam/tripgraphy/main/Travel.png)
 
 🚀 A modern, responsive travel web application built with **Next.js + TypeScript**.  
 Users can explore destinations, share their travel experiences, and manage their own travel blogs.

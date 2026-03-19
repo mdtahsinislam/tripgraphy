@@ -1,0 +1,5 @@
+lavel3-codevata
+
+YfgdxedZUQbO6s20
+
+mongodb+srv://lavel3-codevata:YfgdxedZUQbO6s20@cluster0.c2yujfr.mongodb.net/?appName=Cluster0

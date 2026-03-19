@@ -17,7 +17,7 @@ Users can explore destinations, share their travel experiences, and manage their
 - 🗺️ Interactive destination map
 - Travel exploration UI
 
-### 📝 Travel Diaries (Blogs)
+### 📝 Travel Diaries 
 - View all travel posts
 - Add your own journey (only logged-in users)
 - Manage your personal posts
@@ -35,7 +35,7 @@ Users can explore destinations, share their travel experiences, and manage their
 
 ## 🛠️ Tech Stack
 
-- ⚡ Next.js 14+
+- ⚡ Next.js 
 - 🟦 TypeScript
 - 🎨 Tailwind CSS
 - 🔐 NextAuth.js

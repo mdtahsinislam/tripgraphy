@@ -58,7 +58,13 @@ A full-stack **Travel & Tour** web application built with **Next.js**, **MongoDB
 ---
 
 
+```
+User Roles
 
+User → Can browse, book packages, buy products, manage own posts/profile
+Tourguide → Can create packages & shop products + all user features
+Admin → Full access to all dashboard features
+```
 
 
 

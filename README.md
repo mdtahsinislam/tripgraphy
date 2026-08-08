@@ -10,6 +10,61 @@ Users can explore destinations, share their travel experiences, and manage their
 
 ---
 
+# Travel Tripgraphy
+
+A full-stack **Travel & Tour** web application built with **Next.js**, **MongoDB**, **NextAuth**, and **Stripe**.
+
+---
+
+## Features
+
+- User Authentication (Email/Password + Google Login)
+- Role-based Dashboard (Admin / Tourguide / User)
+- Tour Package Booking with Stripe Payment
+- Travel Shop with Product Purchase
+- Create Package & Shop Products (Admin / Tourguide)
+- Blog Posts
+- User Profile Management
+- Become a Tour Guide
+
+---
+
+## Tech Stack
+
+- **Frontend:** Next.js 16, React, Tailwind CSS, shadcn/ui
+- **Backend:** Next.js API Routes
+- **Database:** MongoDB Atlas
+- **Auth:** NextAuth.js
+- **Payment:** Stripe
+- **Image Upload:** ImgBB
+
+---
+
+## Role Based Sidebar Access
+
+| Menu               | Admin | Tourguide | User |
+|--------------------|-------|-----------|------|
+| Dashboard          | ✅    | ✅        | ✅   |
+| Users              | ✅    | ❌        | ❌   |
+| All User Package   | ✅    | ❌        | ❌   |
+| All User Shopping  | ✅    | ❌        | ❌   |
+| Create Shop Data   | ✅    | ✅        | ❌   |
+| Create Package     | ✅    | ✅        | ❌   |
+| Profile            | ✅    | ✅        | ✅   |
+| My Post            | ✅    | ✅        | ✅   |
+| My Products        | ✅    | ✅        | ✅   |
+| My Package         | ✅    | ✅        | ✅   |
+
+---
+
+
+
+
+
+
+
+
+
 ## ✨ Features
 
 ### 🔐 Authentication

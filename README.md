@@ -12,7 +12,7 @@ Users can explore destinations, share their travel experiences, and manage their
 
 # Travel Tripgraphy
 
-A full-stack **Travel & Tour** web application built with **Next.js**, **MongoDB**, **NextAuth**, and **Stripe**.
+A full-stack **Travel & Tour** web application built with **Next.js**, **MongoDB**, **TypeScript***, and **Stripe**.
 
 ---
 

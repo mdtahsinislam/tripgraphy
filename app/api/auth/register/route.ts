@@ -54,6 +54,7 @@ export async function POST(req: Request) {
       password: hashedPassword,
       phone,
       photo: photoURL,
+       role: "user", // ✅ add this
       createdAt: new Date(),
     };
 
@@ -78,3 +79,6 @@ export async function POST(req: Request) {
     );
   }
 }
+
+
+

@@ -246,7 +246,7 @@
 //   }
 // }
 
-
+//C:\Web-Development\Codvata\Bismillah\lavel-1\lavel3\tripgraphy\app\api\create-checkout-session\route.ts
 
 import Stripe from "stripe";
 import { NextResponse } from "next/server";

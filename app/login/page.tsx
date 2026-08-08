@@ -221,7 +221,7 @@ export default function LoginPage() {
         className="bg-white shadow-2xl rounded-2xl p-8 w-full max-w-md border border-gray-100 text-center"
       >
         <h1 className="text-3xl font-bold text-gray-800 mb-2">
-          Welcome Back CodeVeda ✨
+          Welcome Back Travel Tripgraphy ✨
         </h1>
         <p className="text-gray-500 mb-6">Login to your account</p>
 
